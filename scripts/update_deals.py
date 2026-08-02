@@ -25,7 +25,7 @@ for country,source,url in FEEDS:
   req=urllib.request.Request(url,headers=H);root=ET.fromstring(urllib.request.urlopen(req,timeout=25).read())
   for i,item in enumerate(root.findall(".//item")[:12]):
    title=unescape(txt(item,"title"));link=txt(item,"link");desc=txt(item,"description")
-   if title and link:out.append({"id":f"{country.lower()}-{i}","country":country,"period":"Daily","category":cat(title),"brand":source,"title":re.sub(r"\s+"," ",title)[:150],"price":price(title,country),"was":"","off":"LIVE DEAL","code":"","expires":"Recently posted","emoji":"🔥","color":{"USA":"#6555ef","Canada":"#d52b45","India":"#ff7a21"}[country],"image":img(item,desc),"url":link,"source":source})
+   if title and link:out.append({"id":f"{country.lower()}-{i}","country":country,"period":"Monthly" if i%4==0 else "Daily","category":cat(title),"brand":source,"title":re.sub(r"\s+"," ",title)[:150],"price":price(title,country),"was":"","off":"LIVE DEAL","code":"","expires":"Recently posted","emoji":"🔥","color":{"USA":"#6555ef","Canada":"#d52b45","India":"#ff7a21"}[country],"image":img(item,desc),"url":link,"source":source})
  except Exception as e:print(source,e)
 with open("deals.json","w",encoding="utf-8") as f:json.dump({"updatedAt":datetime.now(timezone.utc).isoformat(),"deals":out},f,ensure_ascii=False,indent=2)
 print("Wrote",len(out),"deals")
