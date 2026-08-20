@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-08-20T01:50:52.584004+00:00",
+  "updatedAt": "2026-08-20T07:05:31.376265+00:00",
   "deals": [
     {
       "id": "usa-0",
       "country": "USA",
       "period": "Monthly",
-      "category": "Travel",
+      "category": "Home",
       "brand": "Slickdeals",
-      "title": "8-Pk Lumesner Travel Compression Packing Cubes (Various Colors) $13.60",
-      "price": "$13.60",
+      "title": "EBL Rechargeable 4-Pk 2800mAh AA + 4-Pk 1100mAh AAA Batteries & Charger $16",
+      "price": "$16",
       "was": "",
       "off": "LIVE DEAL",
       "code": "",
@@ -16,7 +16,7 @@
       "emoji": "🔥",
       "color": "#6555ef",
       "image": "",
-      "url": "https://slickdeals.net/f/19898787-8-pack-lumesner-travel-compression-packing-cubes-13-59-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "url": "https://slickdeals.net/f/19899897-rechargeable-batteries-charger-4-aa-2800mah-4-aaa-1100mah-w-pd-20w-usb-c-usb-a-ports-15-99?utm_source=rss&utm_content=fp&utm_medium=RSS2",
       "source": "Slickdeals"
     },
     {
@@ -25,8 +25,8 @@
       "period": "Daily",
       "category": "Home",
       "brand": "Slickdeals",
-      "title": "4-Pc CENFORGE Plier Organizer Rack w/ Non-Slip Rubber Base (Green) $14.50",
-      "price": "$14.50",
+      "title": "14-Pc Pyrex Simply Store Glass Bakeware Set (7 Containers + 7 Lids) $20.95",
+      "price": "$20.95",
       "was": "",
       "off": "LIVE DEAL",
       "code": "",
@@ -34,7 +34,7 @@
       "emoji": "🔥",
       "color": "#6555ef",
       "image": "",
-      "url": "https://slickdeals.net/f/19896258-cenfoge-plier-organizer-rack-cutter-organizer-with-non-slip-rubber-base-organizer-for-tool-box-drawer-4-pc-green-14-49?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "url": "https://slickdeals.net/f/19883553-14-piece-pyrex-simply-store-glass-food-storage-container-set-w-lids-20-97-free-shipping-w-walmart-or-on-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
       "source": "Slickdeals"
     },
     {
@@ -43,8 +43,8 @@
       "period": "Daily",
       "category": "Home",
       "brand": "Slickdeals",
-      "title": "Carhartt Crossbody Zip Bag (Brown) $19.80",
-      "price": "$19.80",
+      "title": "FanttikOutdoor Zeta L11 Duo Pro Double Camping Chair w/ Cup Holders (2 Colors) $56 Or Less + Free S&H",
+      "price": "$56",
       "was": "",
       "off": "LIVE DEAL",
       "code": "",
@@ -52,7 +52,7 @@
       "emoji": "🔥",
       "color": "#6555ef",
       "image": "",
-      "url": "https://slickdeals.net/f/19897758-19-79-carhartt-crossbody-zip-bag-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "url": "https://slickdeals.net/f/19889277-fanttikoutdoor-zeta-l11-duo-pro-2-person-folding-camping-loveseat-chair-w-cup-holders-carry-bag-black-or-khaki-50-39-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
       "source": "Slickdeals"
     },
     {
@@ -61,25 +61,7 @@
       "period": "Daily",
       "category": "Home",
       "brand": "Slickdeals",
-      "title": "DeWALT 20V MAX Corded / Cordless Air Inflator (Tool Only) $90 or less + Free Pickup",
-      "price": "$90",
-      "was": "",
-      "off": "LIVE DEAL",
-      "code": "",
-      "expires": "Recently posted",
-      "emoji": "🔥",
-      "color": "#6555ef",
-      "image": "",
-      "url": "https://slickdeals.net/f/19898673-dewalt-20v-max-corded-cordless-air-inflator-tool-only-85-bomgaars?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-      "source": "Slickdeals"
-    },
-    {
-      "id": "usa-4",
-      "country": "USA",
-      "period": "Monthly",
-      "category": "Home",
-      "brand": "Slickdeals",
-      "title": "Apple AirPods Pro 3 Wireless Earbuds $190 + Free S&H",
+      "title": "41mm Citizen Men's Classic Addysen Eco-Drive Sapphire Crystal Stainless Steel Watch $190 + Free S&H",
       "price": "$190",
       "was": "",
       "off": "LIVE DEAL",
@@ -88,7 +70,25 @@
       "emoji": "🔥",
       "color": "#6555ef",
       "image": "",
-      "url": "https://slickdeals.net/f/19894803-apple-airpods-pro-3-wireless-active-noise-cancelling-earbuds-189-99-at-best-buy?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "url": "https://slickdeals.net/f/19894749-citizen-men-s-classic-addysen-eco-drive-sapphire-crystal-blue-dial-41mm-ss-watch-190-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "source": "Slickdeals"
+    },
+    {
+      "id": "usa-4",
+      "country": "USA",
+      "period": "Monthly",
+      "category": "Home",
+      "brand": "Slickdeals",
+      "title": "Wet Brush Shine Enhancer Palm Boar Bristle Hair & Beard Brush $6.75",
+      "price": "$6.75",
+      "was": "",
+      "off": "LIVE DEAL",
+      "code": "",
+      "expires": "Recently posted",
+      "emoji": "🔥",
+      "color": "#6555ef",
+      "image": "",
+      "url": "https://slickdeals.net/f/19898823-wet-brush-shine-enhancer-boar-bristle-palm-brush-for-short-hair-beard-black-6-75-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
       "source": "Slickdeals"
     },
     {
@@ -97,8 +97,8 @@
       "period": "Daily",
       "category": "Home",
       "brand": "Slickdeals",
-      "title": "Rnfinewow DIY 3D Wood Puzzle Flame Flower Clock Model Kit $10",
-      "price": "$10",
+      "title": "Avidlove Women's Lace Lingerie Bodysuit w/ Satin Side Bow (Various Colors) $6",
+      "price": "$6",
       "was": "",
       "off": "LIVE DEAL",
       "code": "",
@@ -106,17 +106,17 @@
       "emoji": "🔥",
       "color": "#6555ef",
       "image": "",
-      "url": "https://slickdeals.net/f/19892415-25-piece-11-8-rnfinewow-3d-wooden-flame-flower-working-clock-puzzle-kit-9-99-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "url": "https://slickdeals.net/f/19898244-avidlove-women-s-lace-lingerie-bodysuit-w-satin-side-bow-various-colors-6-free-shipping-w-prime-or-35-orders?utm_source=rss&utm_content=fp&utm_medium=RSS2",
       "source": "Slickdeals"
     },
     {
       "id": "usa-6",
       "country": "USA",
       "period": "Daily",
-      "category": "Home",
+      "category": "Tech",
       "brand": "Slickdeals",
-      "title": "2-Pk BONLION Solar Swaying Butterfly Garden Stake Lights w/ Dusk-to-Dawn Sensor $11.50",
-      "price": "$11.50",
+      "title": "DEPSTECH 2K Dual-Lens Endoscope Camera w/ Light, 7.9mm Probe & 16.5' Cable $19.40",
+      "price": "$19.40",
       "was": "",
       "off": "LIVE DEAL",
       "code": "",
@@ -124,7 +124,7 @@
       "emoji": "🔥",
       "color": "#6555ef",
       "image": "",
-      "url": "https://slickdeals.net/f/19897116-2-pack-bonlion-solar-swaying-butterfly-garden-stake-lights-w-16-butterflies-16-led-orbs-11-49-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "url": "https://slickdeals.net/f/19898706-depstech-ntc55-2k-2560-1440p-dual-lens-endoscope-camera-19-42-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
       "source": "Slickdeals"
     },
     {
@@ -133,8 +133,8 @@
       "period": "Daily",
       "category": "Home",
       "brand": "Slickdeals",
-      "title": "Fanttik Slim V8 Apex 4-in-1 Cordless Car Vacuum $52 + Free S&H",
-      "price": "$52",
+      "title": "12-Pk 11-Oz PRIME Shakes 32g Protein Shake (Chocolate) $18.20 or less w/ S&S + Free S&H",
+      "price": "$18.20",
       "was": "",
       "off": "LIVE DEAL",
       "code": "",
@@ -142,7 +142,7 @@
       "emoji": "🔥",
       "color": "#6555ef",
       "image": "",
-      "url": "https://slickdeals.net/f/19888965-fanttik-slim-v8-apex-4-in-1-cordless-car-vacuum-52-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "url": "https://slickdeals.net/f/19899696-s-s-prime-shakes-chocolate-32g-protein-shake-for-muscle-support-recovery-ultra-filtered-milk-lactose-free-low-sugar-low-calorie-ready-to-drink-11-fl-oz-12-pack-18-19?utm_source=rss&utm_content=fp&utm_medium=RSS2",
       "source": "Slickdeals"
     },
     {
@@ -151,8 +151,8 @@
       "period": "Monthly",
       "category": "Home",
       "brand": "Slickdeals",
-      "title": "19\" High Sierra Loop 33L Daypack Backpack w/ Tablet Sleeve (True Navy/Graphite Blue) $18.50",
-      "price": "$18.50",
+      "title": "Select Accts: 21.16-Oz Optimum Nutrition Micronized Creatine Monohydrate Powder $15.30 w/ S&S",
+      "price": "$15.30",
       "was": "",
       "off": "LIVE DEAL",
       "code": "",
@@ -160,7 +160,7 @@
       "emoji": "🔥",
       "color": "#6555ef",
       "image": "",
-      "url": "https://slickdeals.net/f/19896897-19-high-sierra-loop-33l-daypack-backpack-w-tablet-sleeve-true-navy-graphite-blue-18-48-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "url": "https://slickdeals.net/f/19898604-sns-ac-15-29-21-16-oz-optimum-nutrition-micronized-creatine-monohydrate-powder-unflavored-120-servings-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
       "source": "Slickdeals"
     },
     {
@@ -169,8 +169,8 @@
       "period": "Daily",
       "category": "Home",
       "brand": "Slickdeals",
-      "title": "7.5' Probapro Enchanted Willow Vine Fairy Lights (Brown X1) $15",
-      "price": "$15",
+      "title": "4-Pk uniball 207 Plus+ Retractable Gel Pens (Medium Point, 0.7mm, Black) $4.05",
+      "price": "$4.05",
       "was": "",
       "off": "LIVE DEAL",
       "code": "",
@@ -178,7 +178,7 @@
       "emoji": "🔥",
       "color": "#6555ef",
       "image": "",
-      "url": "https://slickdeals.net/f/19895823-7-5-robapro-enchanted-willow-vine-fairy-lights-brown-x1-14-99-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "url": "https://slickdeals.net/f/19898865-4-pk-uniball-207-plus-retractable-gel-pens-medium-point-0-7mm-black-4-05?utm_source=rss&utm_content=fp&utm_medium=RSS2",
       "source": "Slickdeals"
     },
     {
@@ -187,8 +187,8 @@
       "period": "Daily",
       "category": "Home",
       "brand": "Slickdeals",
-      "title": "3-Pk Philips Sonicare S2 Toothbrush Heads (White) $18.75 w/ S&S",
-      "price": "$18.75",
+      "title": "10-Ct HOUSE AGAIN 3\" Magnetic Stainless Steel Chip Clips w/ Silicone Grips (5 Colors) $8",
+      "price": "$8",
       "was": "",
       "off": "LIVE DEAL",
       "code": "",
@@ -196,7 +196,7 @@
       "emoji": "🔥",
       "color": "#6555ef",
       "image": "",
-      "url": "https://slickdeals.net/f/19897737-new-sns-ac-18-74-3-pack-philips-sonicare-s2-toothbrush-heads-white-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "url": "https://slickdeals.net/f/19898559-10-count-house-again-3-magnetic-stainless-steel-chip-clips-w-silicone-grips-5-colors-7-99-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
       "source": "Slickdeals"
     },
     {
@@ -205,8 +205,8 @@
       "period": "Daily",
       "category": "Home",
       "brand": "Slickdeals",
-      "title": "Best Buy: Trade in a Switch OLED, Get a Switch 2 Console for $245 after Trade-In Credit + Free S&H",
-      "price": "$245",
+      "title": "New Woot! Customers: 4-Pk Energizer 2032 3V Lithium Coin Batteries $0.50 + Free S&H w/ Prime",
+      "price": "$0.50",
       "was": "",
       "off": "LIVE DEAL",
       "code": "",
@@ -214,7 +214,7 @@
       "emoji": "🔥",
       "color": "#6555ef",
       "image": "",
-      "url": "https://slickdeals.net/f/19899039-best-buy-nintendo-switch-2-console-245-w-switch-oled-trade-in-130-trade-in-75-bonus?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+      "url": "https://slickdeals.net/f/19899258-new-woot-customers-4-pack-energizer-2032-3v-lithium-coin-batteries-0-49-free-s-h-w-prime?utm_source=rss&utm_content=fp&utm_medium=RSS2",
       "source": "Slickdeals"
     },
     {
@@ -259,7 +259,7 @@
       "period": "Daily",
       "category": "Home",
       "brand": "Google News",
-      "title": "Amazon vs Flipkart Freedom Sale 2026: Which Offers Better Deals? Compare Dates, Bank Offers, Discounts & All - Goodreturns",
+      "title": "Amazon vs Flipkart Freedom Sale 2026: Which Offers Better Deals? Compare Dates, Bank Offers, Discounts & All - goodreturns.in",
       "price": "See deal",
       "was": "",
       "off": "LIVE DEAL",
@@ -277,6 +277,24 @@
       "period": "Daily",
       "category": "Tech",
       "brand": "Google News",
+      "title": "Amazon vs Flipkart Sale 2026: iPhone 17 Deals & Offers - Business Outreach Magazine",
+      "price": "See deal",
+      "was": "",
+      "off": "LIVE DEAL",
+      "code": "",
+      "expires": "Recently posted",
+      "emoji": "🔥",
+      "color": "#ff7a21",
+      "image": "",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9NRWsyZDc1RENPTDZELXBUMzhsWXFENFlBcC1FRjc0S3NKT2pueVFSYThpdXlXZjE2X2ZNMjN1eWE3aHR6MHFxTUkzNV9JdE4xNDA4VldUcnk4Q1E3NnBjMU5wWktvYkltOGJqSVJ3?oc=5",
+      "source": "Google News"
+    },
+    {
+      "id": "india-4",
+      "country": "India",
+      "period": "Monthly",
+      "category": "Tech",
+      "brand": "Google News",
       "title": "Amazon and Flipkart Freedom Sale 2026: Dates, Bank Offers, and Top Smartphone Deals to Watch - PaidFreeDroid",
       "price": "See deal",
       "was": "",
@@ -290,9 +308,9 @@
       "source": "Google News"
     },
     {
-      "id": "india-4",
+      "id": "india-5",
       "country": "India",
-      "period": "Monthly",
+      "period": "Daily",
       "category": "Home",
       "brand": "Google News",
       "title": "Everything you need to know about Amazon's Great Freedom Sale 2026 - About Amazon India",
@@ -308,7 +326,7 @@
       "source": "Google News"
     },
     {
-      "id": "india-5",
+      "id": "india-6",
       "country": "India",
       "period": "Daily",
       "category": "Tech",
@@ -326,7 +344,7 @@
       "source": "Google News"
     },
     {
-      "id": "india-6",
+      "id": "india-7",
       "country": "India",
       "period": "Daily",
       "category": "Tech",
@@ -344,9 +362,9 @@
       "source": "Google News"
     },
     {
-      "id": "india-7",
+      "id": "india-8",
       "country": "India",
-      "period": "Daily",
+      "period": "Monthly",
       "category": "Tech",
       "brand": "Google News",
       "title": "10 smartphone deals you can look at during the ongoing Amazon Prime Day and Flipkart GOAT Sale - The Times of India",
@@ -362,9 +380,9 @@
       "source": "Google News"
     },
     {
-      "id": "india-8",
+      "id": "india-9",
       "country": "India",
-      "period": "Monthly",
+      "period": "Daily",
       "category": "Tech",
       "brand": "Google News",
       "title": "Tech3 | Flipkart eyes Big Billion Pre-IPO round; What the Amazon–Globalstar deal means for India’s satcom play; and more - LinkedIn",
@@ -380,7 +398,7 @@
       "source": "Google News"
     },
     {
-      "id": "india-9",
+      "id": "india-10",
       "country": "India",
       "period": "Daily",
       "category": "Tech",
@@ -398,7 +416,7 @@
       "source": "Google News"
     },
     {
-      "id": "india-10",
+      "id": "india-11",
       "country": "India",
       "period": "Daily",
       "category": "Home",
@@ -413,24 +431,6 @@
       "color": "#ff7a21",
       "image": "",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObW0ybTRObllweVgyQkpOOTF6UFFyeV9wTlIxZnFZRnpYWlVWaEJSNFJmSEZ3ZGhKcTNUR0x1VzBiWGs1M2FJUVZDc2hGaHVvZi1QUGhRRERKcGNHbVdZNkJ4ZWJuODBWUDVtUDEwU1FDT2lCeEdZTmJfekhha3c2T1hJUjREMVhGd2lKbE5VaUlLNzlxSEtHU1NnYzlvR2dmTEdTMGJFdE9ZejRydzVMU1AzeTI1QdIBwwFBVV95cUxNNjNGR0s1MDdIdXV5aXgycWZBOGZfNVhZcnpNVG5hdTVJVTRHYzVxWlp1NElIdk1MNi1TY29WQ0piQ1dzNDNUa3FYQ2ZtREJ5X0JtWmd4VkxGblFacmNEMWt0SkV1ZHRVcEZHMWZTLS1aMU1ybFdpMGVwdXRlRUhrS0lCVGdORjBYTERKY0hFejE0X3dYR0QwOXM0M3RPa0FGSXdSVDFDRGMyRWVGR2tyMlo3ZWdtV0IwVGV2Q1hSRm1hYWs?oc=5",
-      "source": "Google News"
-    },
-    {
-      "id": "india-11",
-      "country": "India",
-      "period": "Daily",
-      "category": "Tech",
-      "brand": "Google News",
-      "title": "Flipkart Summer Sale: Top Deals on Android Phones From Motorola, Realme, Oppo and More - Gadgets 360",
-      "price": "See deal",
-      "was": "",
-      "off": "LIVE DEAL",
-      "code": "",
-      "expires": "Recently posted",
-      "emoji": "🔥",
-      "color": "#ff7a21",
-      "image": "",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZWY3ZkEyVGtvTUg3R25PdkZQQ1RHSDg0cFlXcGZJNERfNndvWlhSZkxaNllMNXRjb2pRcWtWLWwxQkNaeDBWR2xyeG8zT2hNc3c3YnBaaHNHMUFhLWdrUmY4bWhUV01QT2ZnZnNEOWY4bzhhLVdlcHJNZld1dnhkd05IR0RTcUtKeW5hUXJhRWgtNFhsSm8wWW1CUV9yUzVjcWUzeEt6Rl9OR2xKMlVmLXViM08yS2NQTnY3SkVydnlfUdIBxwFBVV95cUxPZXlvbklkUGZraGJjR09uWjVnQkFhTnRub29yWkljMW5FeXBNUHNVYTZsZnZfOG5xZXFwRVpBTkVNOWRHczNFUzdDU3FSbkM5UmhkY0Zvc0t0eElfNTF4LVcyeFNpZk5PakdYUWphRTlrRGZBSjRsek8zQmFPMHIySUlDdVkzLUUwaDRXSGtOV1pLQkJic2laTmhFMGdEQncxSmZaaHZsSUZOU2xvNVNXSFhVbXgtOVl0M3dxb3VDbWRWRi1UNWp3?oc=5",
       "source": "Google News"
     }
   ]
